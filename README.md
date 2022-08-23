@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **JohannTP/JohannTP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Johann</h1>
-<h3 align="center">A passionate backen developer from Ica, Peru</h3>
+<h3 align="center">A passionate backend developer from Ica, Peru</h3>
 
 - 📫 How to reach me **Johannccn@gmail.com**
 
